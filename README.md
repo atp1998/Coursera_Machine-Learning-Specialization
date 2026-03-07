@@ -1,11 +1,10 @@
-# Coursera_Machine-Learning-Specialization
+# Machine-Learning-Specialization
 
-📚 Course 1: Supervised Machine Learning: Regression and Classification 🧩 Modules Overview
+Supervised Machine Learning: Regression and Classification 
 
-Week 1 : Introduction to Machine Learning
+Unsupervised Machine Learning 
 
-Week 2 : Regression and Multiple Input Variables
+Advanced Methods
 
-Week 3 : Classification with logistic regression
 
 
